@@ -202,7 +202,7 @@ Put the database schema there. This file creates:
 - `valid_supervisor_ids`
 - `projects`
 - `comments`
-- 
+- `likes`
 
 Use this code as the base:
 
