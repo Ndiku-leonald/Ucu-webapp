@@ -4,7 +4,7 @@ UCU Innovators Hub is a full-stack web platform for managing student innovation 
 
 This repository contains the complete system from scratch:
 
-- 
+- A React + Vite frontend
 - A Node.js + Express backend API
 - A MySQL relational database
 - JWT-based authentication and role-based authorization
