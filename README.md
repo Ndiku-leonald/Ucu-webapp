@@ -14,7 +14,7 @@ This repository contains the complete system from scratch:
 
 This README is intentionally detailed so you can use it both to:
 
-1. Explain the project in a presentation
+1. 
 2. Recreate a similar system from scratch
 3. Understand how the frontend, backend, and database connect together
 
